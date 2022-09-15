@@ -195,3 +195,17 @@ button {
 }
   
 }
+/* blog styles  */
+.blogs-container{
+  background-color: #29048880;
+  color: white;
+  padding: 20px 25px;
+  text-align: center;
+}
+.padding{
+  padding-bottom: 10px;
+}
+.padding-plus-font-size{
+  padding-bottom: 15px;
+  font-size: 1.115rem;
+}
